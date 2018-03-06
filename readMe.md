@@ -1,1 +1,1 @@
-Boiler Plate React App
+Event Management Website
